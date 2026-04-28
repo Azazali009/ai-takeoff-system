@@ -1,0 +1,19 @@
+{
+  "takeoff_id": "TAKEOFF-40 - TPS Rm 203 ETVS Renovation",
+  "project_name": "TAKEOFF-40 - TPS Rm 203 ETVS Renovation",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "25-028537 TPS Rm203ETVS-Construction Drawing Set.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-40 - TPS Rm 203 ETVS Renovation/Project Files/25-028537 TPS Rm203ETVS-Construction Drawing Set.pdf"
+    },
+    {
+      "name": "TORFP.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-40 - TPS Rm 203 ETVS Renovation/Project Files/TORFP.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.076Z"
+}

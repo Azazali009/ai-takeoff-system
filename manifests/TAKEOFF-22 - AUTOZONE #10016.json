@@ -1,0 +1,51 @@
+{
+  "takeoff_id": "TAKEOFF-22 - AUTOZONE #10016",
+  "project_name": "TAKEOFF-22 - AUTOZONE #10016",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "A0.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A0.pdf"
+    },
+    {
+      "name": "A1.1.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A1.1.pdf"
+    },
+    {
+      "name": "A1.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A1.pdf"
+    },
+    {
+      "name": "A2.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A2.pdf"
+    },
+    {
+      "name": "A3.1.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A3.1.pdf"
+    },
+    {
+      "name": "A3.2.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A3.2.pdf"
+    },
+    {
+      "name": "A3.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A3.pdf"
+    },
+    {
+      "name": "A4.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A4.pdf"
+    },
+    {
+      "name": "A5.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A5.pdf"
+    },
+    {
+      "name": "A6.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-22 - AUTOZONE #10016/Project Files/A6.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.067Z"
+}

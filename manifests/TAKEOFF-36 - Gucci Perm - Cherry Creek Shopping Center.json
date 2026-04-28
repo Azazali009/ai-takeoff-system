@@ -1,0 +1,259 @@
+{
+  "takeoff_id": "TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center",
+  "project_name": "TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "1.  Trade Partner Subcontract Agreement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/1.  Trade Partner Subcontract Agreement.pdf"
+    },
+    {
+      "name": "1.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/1.jpg"
+    },
+    {
+      "name": "10.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/10.jpg"
+    },
+    {
+      "name": "11.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/11.jpg"
+    },
+    {
+      "name": "12.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/12.jpg"
+    },
+    {
+      "name": "13.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/13.jpg"
+    },
+    {
+      "name": "14.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/14.jpg"
+    },
+    {
+      "name": "15.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/15.jpg"
+    },
+    {
+      "name": "16.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/16.jpg"
+    },
+    {
+      "name": "17.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/17.jpg"
+    },
+    {
+      "name": "18.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/18.jpg"
+    },
+    {
+      "name": "19.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/19.jpg"
+    },
+    {
+      "name": "2. Professional Services Agreement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/2. Professional Services Agreement.pdf"
+    },
+    {
+      "name": "2.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/2.jpg"
+    },
+    {
+      "name": "20.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/20.jpg"
+    },
+    {
+      "name": "2025.06.18 Gucci Denver CO Bid Set COMBINED.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/2025.06.18 Gucci Denver CO Bid Set COMBINED.pdf"
+    },
+    {
+      "name": "21.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/21.jpg"
+    },
+    {
+      "name": "22.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/22.jpg"
+    },
+    {
+      "name": "23.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/23.jpg"
+    },
+    {
+      "name": "24.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/24.jpg"
+    },
+    {
+      "name": "25.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/25.jpg"
+    },
+    {
+      "name": "26.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/26.jpg"
+    },
+    {
+      "name": "27.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/27.jpg"
+    },
+    {
+      "name": "28.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/28.jpg"
+    },
+    {
+      "name": "3. Purchase Order Agreement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/3. Purchase Order Agreement.pdf"
+    },
+    {
+      "name": "3.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/3.jpg"
+    },
+    {
+      "name": "4-cck-construction-of-the-leased-premises.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/4-cck-construction-of-the-leased-premises.pdf"
+    },
+    {
+      "name": "4. Bare Rental Agreement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/4. Bare Rental Agreement.pdf"
+    },
+    {
+      "name": "4.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/4.jpg"
+    },
+    {
+      "name": "5. Dumpster Agreement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/5. Dumpster Agreement.pdf"
+    },
+    {
+      "name": "5.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/5.jpg"
+    },
+    {
+      "name": "6.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/6.jpg"
+    },
+    {
+      "name": "7.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/7.jpg"
+    },
+    {
+      "name": "8.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/8.jpg"
+    },
+    {
+      "name": "9.jpg",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/9.jpg"
+    },
+    {
+      "name": "AIA & SWORN STATEMENT DIRECTIONS.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/AIA & SWORN STATEMENT DIRECTIONS.pdf"
+    },
+    {
+      "name": "AIA PAY APP TEMPLATE.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/AIA PAY APP TEMPLATE.pdf"
+    },
+    {
+      "name": "Additional-Work-Breakdown-Form .pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Additional-Work-Breakdown-Form .pdf"
+    },
+    {
+      "name": "CCK+Permit+Process+8-30-23.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/CCK+Permit+Process+8-30-23.pdf"
+    },
+    {
+      "name": "CCK+Tenant+Construction+Rules+and+Regulations_1.23.2025.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/CCK+Tenant+Construction+Rules+and+Regulations_1.23.2025.pdf"
+    },
+    {
+      "name": "Certificate of Insurance for Bare Rental - myCOI Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Certificate of Insurance for Bare Rental - myCOI Requirements.pdf"
+    },
+    {
+      "name": "Certificate of Insurance for Dumpsters - myCOI Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Certificate of Insurance for Dumpsters - myCOI Requirements.pdf"
+    },
+    {
+      "name": "Certificate of Insurance for Professional Services - myCOI Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Certificate of Insurance for Professional Services - myCOI Requirements.pdf"
+    },
+    {
+      "name": "Certificate of Insurance for Supplier Purchase Order - myCOI Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Certificate of Insurance for Supplier Purchase Order - myCOI Requirements.pdf"
+    },
+    {
+      "name": "Certificate of Insurance for Trade Partners - myCOI Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Certificate of Insurance for Trade Partners - myCOI Requirements.pdf"
+    },
+    {
+      "name": "Closeout Log.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Closeout Log.pdf"
+    },
+    {
+      "name": "Floor Survey Instructions.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Floor Survey Instructions.pdf"
+    },
+    {
+      "name": "Health Screen Check-In - Sample.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Health Screen Check-In - Sample.pdf"
+    },
+    {
+      "name": "JOINT CHECK AGREEMENT.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/JOINT CHECK AGREEMENT.pdf"
+    },
+    {
+      "name": "Kering Responsibilities and Provisions KSTP.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Kering Responsibilities and Provisions KSTP.pdf"
+    },
+    {
+      "name": "NOTICE OF COMMENCEMENT-fillable.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/NOTICE OF COMMENCEMENT-fillable.pdf"
+    },
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Project Description.txt"
+    },
+    {
+      "name": "RFI Submission.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/RFI Submission.pdf"
+    },
+    {
+      "name": "SWORN STATEMENT TEMPLATE.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/SWORN STATEMENT TEMPLATE.pdf"
+    },
+    {
+      "name": "Sachse PlanGrid Requirement.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Sachse PlanGrid Requirement.pdf"
+    },
+    {
+      "name": "Sachse Site Safety Manual.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Sachse Site Safety Manual.pdf"
+    },
+    {
+      "name": "Trade Partner Prequalification Requirements.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Trade Partner Prequalification Requirements.pdf"
+    },
+    {
+      "name": "Trade Partner Subcontract Performance  Payment Bond Forms.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Trade Partner Subcontract Performance  Payment Bond Forms.pdf"
+    },
+    {
+      "name": "WAIVERS OF LIEN.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/WAIVERS OF LIEN.pdf"
+    },
+    {
+      "name": "Wage Rate Format.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Wage Rate Format.pdf"
+    },
+    {
+      "name": "Warranty Form.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Warranty Form.pdf"
+    },
+    {
+      "name": "Welcome and Instructions - Front End Documents.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-36 - Gucci Perm - Cherry Creek Shopping Center/Project Files/Welcome and Instructions - Front End Documents.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.072Z"
+}

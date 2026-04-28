@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-30 - FRESENIUS NORTH DALLAS",
+  "project_name": "TAKEOFF-30 - FRESENIUS NORTH DALLAS",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "Fresenius North Dallas Bid Set - 7.23.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-30 - FRESENIUS NORTH DALLAS/Project Files/Fresenius North Dallas Bid Set - 7.23.25.pdf"
+    },
+    {
+      "name": "Fresenius North Dallas Spec Book.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-30 - FRESENIUS NORTH DALLAS/Project Files/Fresenius North Dallas Spec Book.pdf"
+    },
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-30 - FRESENIUS NORTH DALLAS/Project Files/Project Description.txt"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.068Z"
+}

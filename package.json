@@ -1,0 +1,18 @@
+{
+  "name": "ai-takeoff-system",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ingest": "node src/ingestor.js",
+    "process": "node src/processor.js",
+    "evaluate": "node src/evaluator.js",
+    "all": "node src/runAll.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.0.0",
+    "groq-sdk": "^1.1.2",
+    "pdf-parse": "^1.1.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "takeoff_id": "TAKEOFF-58 - HMSL Employee Fitness",
+  "project_name": "TAKEOFF-58 - HMSL Employee Fitness",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:32.464Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "Drawings_FULL.pdf",
+    "M001 - Mechanical Schedules.pdf",
+    "M002 - Mechanical Schedules.pdf",
+    "Specs_FULL.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98611, Requested 9680. Please try again in 1h59m23.424s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98611, Requested 9680. Please try again in 1h59m23.424s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

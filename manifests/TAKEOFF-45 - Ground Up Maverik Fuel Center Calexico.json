@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico",
+  "project_name": "TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "CA-777 - CONFORMED SET - BID SET - 06.12.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico/Project Files/CA-777 - CONFORMED SET - BID SET - 06.12.25.pdf"
+    },
+    {
+      "name": "CA-777 - SPECIFICATION - BID SET - 06.12.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico/Project Files/CA-777 - SPECIFICATION - BID SET - 06.12.25.pdf"
+    },
+    {
+      "name": "Maverik _777.zip",
+      "path": "data/02_challenge_projects/TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico/Project Files/Maverik _777.zip"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.077Z"
+}

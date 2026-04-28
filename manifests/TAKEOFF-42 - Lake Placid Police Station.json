@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-42 - Lake Placid Police Station",
+  "project_name": "TAKEOFF-42 - Lake Placid Police Station",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "00 PROJECT SPECIFICATIONS MANUAL Lake Placid Police Station 07-15-2025.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-42 - Lake Placid Police Station/Project Files/00 PROJECT SPECIFICATIONS MANUAL Lake Placid Police Station 07-15-2025.pdf"
+    },
+    {
+      "name": "PC-975 LAKE PLACID POLICE STATION DRAWINGS.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-42 - Lake Placid Police Station/Project Files/PC-975 LAKE PLACID POLICE STATION DRAWINGS.pdf"
+    },
+    {
+      "name": "_Geotech Report.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-42 - Lake Placid Police Station/Project Files/_Geotech Report.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.076Z"
+}

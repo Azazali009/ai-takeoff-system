@@ -1,0 +1,76 @@
+{
+  "takeoff_id": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "project_name": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "set": "sample",
+  "input_files": [
+    {
+      "name": "10110807_10110807_T_DETAIL_PDF_VRS01.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/10110807_10110807_T_DETAIL_PDF_VRS01.pdf"
+    },
+    {
+      "name": "10110807_10110807_T_MAIN_PROJECT_PDF_VRS01.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/10110807_10110807_T_MAIN_PROJECT_PDF_VRS01.pdf"
+    },
+    {
+      "name": "10110807_D_GR_JJ_NY_Staten_Island_PDF_VRS07.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/10110807_D_GR_JJ_NY_Staten_Island_PDF_VRS07.pdf"
+    },
+    {
+      "name": "1465 Gap Kids (2007).pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/1465 Gap Kids (2007).pdf"
+    },
+    {
+      "name": "2025-0673 S-1.10.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/2025-0673 S-1.10.pdf"
+    },
+    {
+      "name": "2025-0673 S-2.10.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/2025-0673 S-2.10.pdf"
+    },
+    {
+      "name": "C25490_E-1.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_E-1.pdf"
+    },
+    {
+      "name": "C25490_E-2.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_E-2.pdf"
+    },
+    {
+      "name": "C25490_E-3.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_E-3.pdf"
+    },
+    {
+      "name": "C25490_E-4.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_E-4.pdf"
+    },
+    {
+      "name": "C25490_M-1.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_M-1.pdf"
+    },
+    {
+      "name": "C25490_M-2.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_M-2.pdf"
+    },
+    {
+      "name": "C25490_M-3.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/C25490_M-3.pdf"
+    },
+    {
+      "name": "JJ2505-JackJones Staten Island - Arch IFP - 073125-flat.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Project Files/JJ2505-JackJones Staten Island - Arch IFP - 073125-flat.pdf"
+    }
+  ],
+  "gold_files": [
+    {
+      "name": "Estimate - JACK & JONES STATEN ISLAND, NY.xlsx",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Expected Manual Output/Estimate - JACK & JONES STATEN ISLAND, NY.xlsx"
+    },
+    {
+      "name": "Markups - JACK & JONES STATEN ISLAND, NY.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY/Expected Manual Output/Markups - JACK & JONES STATEN ISLAND, NY.pdf"
+    }
+  ],
+  "expected_output_visible": true,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.066Z"
+}

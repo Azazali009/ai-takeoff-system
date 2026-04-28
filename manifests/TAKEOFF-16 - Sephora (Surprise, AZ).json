@@ -1,0 +1,15 @@
+{
+  "takeoff_id": "TAKEOFF-16 - Sephora (Surprise, AZ)",
+  "project_name": "TAKEOFF-16 - Sephora (Surprise, AZ)",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-16 - Sephora (Surprise, AZ)/Project Files/PRASADA NORTH_2412_NEW_250624_PERMIT.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.066Z"
+}

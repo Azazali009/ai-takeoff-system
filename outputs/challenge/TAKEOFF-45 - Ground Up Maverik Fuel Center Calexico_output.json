@@ -1,0 +1,24 @@
+{
+  "takeoff_id": "TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico",
+  "project_name": "TAKEOFF-45 - Ground Up Maverik Fuel Center Calexico",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:47:47.439Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "CA-777 - CONFORMED SET - BID SET - 06.12.25.pdf",
+    "CA-777 - SPECIFICATION - BID SET - 06.12.25.pdf",
+    "Maverik _777.zip"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95468, Requested 4885. Please try again in 5m4.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95468, Requested 4885. Please try again in 5m4.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

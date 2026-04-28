@@ -1,0 +1,64 @@
+{
+  "takeoff_id": "TAKEOFF-32 - APU Military and Veterans Azusa",
+  "project_name": "TAKEOFF-32 - APU Military and Veterans Azusa",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:47:19.128Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "2025-02-11 Campus Standards Handbook.pdf",
+    "2025-07-18 Military_Veterans Center-2nd City Submittal Bid.pdf",
+    "4 Fast FAQs about TheoBuild_VCC.pdf",
+    "DigiProcure Correspondence.docx",
+    "DigiProcure.pdf",
+    "General Insurance Requirements Standard  2021-Ca.pdf",
+    "Project Description.txt",
+    "Subcontract Agreement-California.pdf",
+    "Terms and Conditions - California.pdf"
+  ],
+  "takeoff": {
+    "project_summary": "Construction standards for Azusa Pacific University",
+    "trade": "General Construction",
+    "line_items": [
+      {
+        "id": "LI-001",
+        "description": "Concrete sidewalks",
+        "quantity": 0,
+        "unit": "SF",
+        "source_reference": "2025-02-11 Campus Standards Handbook.pdf, page 9",
+        "assumption": "No specific quantity mentioned",
+        "warning": "No quantity data available",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-002",
+        "description": "Exterior concrete stairs",
+        "quantity": 0,
+        "unit": "EA",
+        "source_reference": "2025-02-11 Campus Standards Handbook.pdf, page 9",
+        "assumption": "No specific quantity mentioned",
+        "warning": "No quantity data available",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-003",
+        "description": "Masonry walls",
+        "quantity": 0,
+        "unit": "SF",
+        "source_reference": "2025-02-11 Campus Standards Handbook.pdf, page 10",
+        "assumption": "No specific quantity mentioned",
+        "warning": "No quantity data available",
+        "confidence": "low"
+      }
+    ],
+    "assumptions": [
+      "No specific quantities mentioned in the document"
+    ],
+    "warnings": [
+      "No quantity data available in the provided document"
+    ],
+    "missing_information": [
+      "Detailed drawings or specifications with quantity data"
+    ],
+    "processing_notes": "The provided document is a standards handbook with no specific quantity data. It appears to be an image-based PDF with some extractable text."
+  }
+}

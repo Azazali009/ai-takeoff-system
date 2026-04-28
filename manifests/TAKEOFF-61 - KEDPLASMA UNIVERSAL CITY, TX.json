@@ -1,0 +1,15 @@
+{
+  "takeoff_id": "TAKEOFF-61 - KEDPLASMA UNIVERSAL CITY, TX",
+  "project_name": "TAKEOFF-61 - KEDPLASMA UNIVERSAL CITY, TX",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "07.23.25 KED Universal City TX Bid Set.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-61 - KEDPLASMA UNIVERSAL CITY, TX/Project Files/07.23.25 KED Universal City TX Bid Set.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.081Z"
+}

@@ -1,0 +1,24 @@
+{
+  "takeoff_id": "TAKEOFF-63 - LEHI HIPPO VET CLINIC",
+  "project_name": "TAKEOFF-63 - LEHI HIPPO VET CLINIC",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:41.939Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "LP-100-LANDSCAPE-OVERALL-PLAN-Rev.BID.pdf",
+    "LP-101-LANDSCAPE-COVER-Rev.BID.pdf",
+    "LP-501-LANDSCAPE-DETAILS-Rev.BID.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98600, Requested 12351. Please try again in 2h37m41.663999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98600, Requested 12351. Please try again in 2h37m41.663999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "takeoff_id": "TAKEOFF-28 - Maryland Vision Institute",
+  "project_name": "TAKEOFF-28 - Maryland Vision Institute",
+  "set": "sample",
+  "processed_at": "2026-04-28T06:45:39.697Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "ADC - STANDARD Contractor Rules and Regulations - 2.16.2023 4883-1236-7441 v.1.pdf",
+    "Break Out _1- Public Corridor Drawings.pdf",
+    "MVI Clinic_Addendum 01.pdf",
+    "Maryland Vision Institute_Drawings.pdf",
+    "Maryland Vision Institute_Specifications.pdf",
+    "Scope of Work.pdf"
+  ],
+  "takeoff": {
+    "project_summary": "Maryland Vision Institute - Clinic Suite Tenant Fit-Out",
+    "trade": "Electrical",
+    "line_items": [
+      {
+        "id": "LI-001",
+        "description": "Undercabinet lighting",
+        "quantity": 1,
+        "unit": "LS",
+        "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+        "assumption": "Assuming undercabinet lighting is a lump sum item",
+        "warning": "No specific quantity or details provided",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-002",
+        "description": "Power connection for exterior building mounted sign",
+        "quantity": 1,
+        "unit": "LS",
+        "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+        "assumption": "Assuming power connection is a lump sum item",
+        "warning": "No specific quantity or details provided",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-003",
+        "description": "Empty box and raceway for future installation of automatic door",
+        "quantity": 1,
+        "unit": "LS",
+        "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+        "assumption": "Assuming empty box and raceway is a lump sum item",
+        "warning": "No specific quantity or details provided",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-004",
+        "description": "Hand dryers",
+        "quantity": 1,
+        "unit": "EA",
+        "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+        "assumption": "Assuming one hand dryer is required",
+        "warning": "No specific quantity or details provided",
+        "confidence": "low"
+      }
+    ],
+    "assumptions": [
+      "Assuming all electrical items are lump sum unless otherwise specified"
+    ],
+    "warnings": [
+      "No specific quantities or details provided for most electrical items",
+      "Assumptions made for quantities and units"
+    ],
+    "missing_information": [
+      "Detailed electrical plans and specifications"
+    ],
+    "processing_notes": "The provided PDF file contains mostly text, but some pages appear to be image-based with no extractable text. The addendum provides some information on electrical items, but quantities and details are limited."
+  }
+}

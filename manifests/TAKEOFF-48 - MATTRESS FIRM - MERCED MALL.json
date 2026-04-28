@@ -1,0 +1,15 @@
+{
+  "takeoff_id": "TAKEOFF-48 - MATTRESS FIRM - MERCED MALL",
+  "project_name": "TAKEOFF-48 - MATTRESS FIRM - MERCED MALL",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "Merced Mall_ARCH_MEP_Bid Set_08.04.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-48 - MATTRESS FIRM - MERCED MALL/Project Files/Merced Mall_ARCH_MEP_Bid Set_08.04.25.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.078Z"
+}

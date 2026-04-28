@@ -1,0 +1,27 @@
+{
+  "takeoff_id": "TAKEOFF-30 - FRESENIUS NORTH DALLAS",
+  "project_name": "TAKEOFF-30 - FRESENIUS NORTH DALLAS",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:45:44.095Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "Fresenius North Dallas Bid Set - 7.23.25.pdf",
+    "Fresenius North Dallas Spec Book.pdf",
+    "Project Description.txt"
+  ],
+  "takeoff": {
+    "project_summary": "Construction project for Fresenius North Dallas",
+    "trade": "Multiple",
+    "line_items": [],
+    "assumptions": [
+      "No specific quantities mentioned in the provided text"
+    ],
+    "warnings": [
+      "No measurable quantities found"
+    ],
+    "missing_information": [
+      "Drawings and specifications with measurable quantities"
+    ],
+    "processing_notes": "The provided text appears to be a table of contents and instructions to bidders, with no extractable physical construction quantities. The text is not image-based, but it does not contain any measurable quantities."
+  }
+}

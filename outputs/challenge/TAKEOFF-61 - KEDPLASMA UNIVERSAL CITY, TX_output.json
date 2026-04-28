@@ -1,0 +1,22 @@
+{
+  "takeoff_id": "TAKEOFF-61 - KEDPLASMA UNIVERSAL CITY, TX",
+  "project_name": "TAKEOFF-61 - KEDPLASMA UNIVERSAL CITY, TX",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:38.906Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "07.23.25 KED Universal City TX Bid Set.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98604, Requested 7669. Please try again in 1h30m19.871999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98604, Requested 7669. Please try again in 1h30m19.871999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

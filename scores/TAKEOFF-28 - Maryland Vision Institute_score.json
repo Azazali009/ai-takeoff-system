@@ -1,0 +1,66 @@
+{
+  "takeoff_id": "TAKEOFF-28 - Maryland Vision Institute",
+  "project_name": "TAKEOFF-28 - Maryland Vision Institute",
+  "evaluated_at": "2026-04-28T07:02:37.110Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "summary": {
+    "ai_item_count": 4,
+    "gold_files_available": [
+      "Estimate - MARYLAND VISION INSTITUTE.xlsx",
+      "Markups - MARYLAND VISION INSTITUTE.pdf"
+    ],
+    "trade_detected": "Electrical",
+    "processing_notes": "The provided PDF file contains mostly text, but some pages appear to be image-based with no extractable text. The addendum provides some information on electrical items, but quantities and details are limited."
+  },
+  "ai_line_items": [
+    {
+      "id": "LI-001",
+      "description": "Undercabinet lighting",
+      "quantity": 1,
+      "unit": "LS",
+      "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+      "assumption": "Assuming undercabinet lighting is a lump sum item",
+      "warning": "No specific quantity or details provided",
+      "confidence": "low"
+    },
+    {
+      "id": "LI-002",
+      "description": "Power connection for exterior building mounted sign",
+      "quantity": 1,
+      "unit": "LS",
+      "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+      "assumption": "Assuming power connection is a lump sum item",
+      "warning": "No specific quantity or details provided",
+      "confidence": "low"
+    },
+    {
+      "id": "LI-003",
+      "description": "Empty box and raceway for future installation of automatic door",
+      "quantity": 1,
+      "unit": "LS",
+      "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+      "assumption": "Assuming empty box and raceway is a lump sum item",
+      "warning": "No specific quantity or details provided",
+      "confidence": "low"
+    },
+    {
+      "id": "LI-004",
+      "description": "Hand dryers",
+      "quantity": 1,
+      "unit": "EA",
+      "source_reference": "MVI Clinic_Addendum 01.pdf, Page 1",
+      "assumption": "Assuming one hand dryer is required",
+      "warning": "No specific quantity or details provided",
+      "confidence": "low"
+    }
+  ],
+  "ai_assumptions": [
+    "Assuming all electrical items are lump sum unless otherwise specified"
+  ],
+  "ai_warnings": [
+    "No specific quantities or details provided for most electrical items",
+    "Assumptions made for quantities and units"
+  ],
+  "evaluation_notes": "Evaluated 4 AI-generated line items against gold files: Estimate - MARYLAND VISION INSTITUTE.xlsx, Markups - MARYLAND VISION INSTITUTE.pdf",
+  "overall_grade": "Partial"
+}

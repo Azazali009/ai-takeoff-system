@@ -1,0 +1,47 @@
+{
+  "takeoff_id": "TAKEOFF-32 - APU Military and Veterans Azusa",
+  "project_name": "TAKEOFF-32 - APU Military and Veterans Azusa",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "2025-02-11 Campus Standards Handbook.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/2025-02-11 Campus Standards Handbook.pdf"
+    },
+    {
+      "name": "2025-07-18 Military_Veterans Center-2nd City Submittal Bid.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/2025-07-18 Military_Veterans Center-2nd City Submittal Bid.pdf"
+    },
+    {
+      "name": "4 Fast FAQs about TheoBuild_VCC.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/4 Fast FAQs about TheoBuild_VCC.pdf"
+    },
+    {
+      "name": "DigiProcure Correspondence.docx",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/DigiProcure Correspondence.docx"
+    },
+    {
+      "name": "DigiProcure.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/DigiProcure.pdf"
+    },
+    {
+      "name": "General Insurance Requirements Standard  2021-Ca.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/General Insurance Requirements Standard  2021-Ca.pdf"
+    },
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/Project Description.txt"
+    },
+    {
+      "name": "Subcontract Agreement-California.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/Subcontract Agreement-California.pdf"
+    },
+    {
+      "name": "Terms and Conditions - California.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-32 - APU Military and Veterans Azusa/Project Files/Terms and Conditions - California.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.070Z"
+}

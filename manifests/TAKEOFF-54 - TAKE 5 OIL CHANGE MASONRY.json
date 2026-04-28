@@ -1,0 +1,39 @@
+{
+  "takeoff_id": "TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY",
+  "project_name": "TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "25-0140_1644 GREENS PRAIRIE ROAD (ALTA)-Layout1.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/25-0140_1644 GREENS PRAIRIE ROAD (ALTA)-Layout1.pdf"
+    },
+    {
+      "name": "3. T5O COLLEGE STATION, TX SIR.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/3. T5O COLLEGE STATION, TX SIR.pdf"
+    },
+    {
+      "name": "3300rse ( Take 5 Oil Change - College Station) - Geo Report.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/3300rse ( Take 5 Oil Change - College Station) - Geo Report.pdf"
+    },
+    {
+      "name": "51-4694 Proposed Take 5 College Station ESA.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/51-4694 Proposed Take 5 College Station ESA.pdf"
+    },
+    {
+      "name": "Low Voltage Bulletin - 11.21.23.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/Low Voltage Bulletin - 11.21.23.pdf"
+    },
+    {
+      "name": "Madewell RFP - Take 5 Oil Change - College Station, TX.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/Madewell RFP - Take 5 Oil Change - College Station, TX.pdf"
+    },
+    {
+      "name": "T5OC - Standard 3-Bay Layout - 011224.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-54 - TAKE 5 OIL CHANGE MASONRY/Project Files/T5OC - Standard 3-Bay Layout - 011224.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.079Z"
+}

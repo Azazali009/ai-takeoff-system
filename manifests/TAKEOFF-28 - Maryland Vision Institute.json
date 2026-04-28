@@ -1,0 +1,44 @@
+{
+  "takeoff_id": "TAKEOFF-28 - Maryland Vision Institute",
+  "project_name": "TAKEOFF-28 - Maryland Vision Institute",
+  "set": "sample",
+  "input_files": [
+    {
+      "name": "ADC - STANDARD Contractor Rules and Regulations - 2.16.2023 4883-1236-7441 v.1.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/ADC - STANDARD Contractor Rules and Regulations - 2.16.2023 4883-1236-7441 v.1.pdf"
+    },
+    {
+      "name": "Break Out _1- Public Corridor Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/Break Out _1- Public Corridor Drawings.pdf"
+    },
+    {
+      "name": "MVI Clinic_Addendum 01.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/MVI Clinic_Addendum 01.pdf"
+    },
+    {
+      "name": "Maryland Vision Institute_Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/Maryland Vision Institute_Drawings.pdf"
+    },
+    {
+      "name": "Maryland Vision Institute_Specifications.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/Maryland Vision Institute_Specifications.pdf"
+    },
+    {
+      "name": "Scope of Work.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Project Files/Scope of Work.pdf"
+    }
+  ],
+  "gold_files": [
+    {
+      "name": "Estimate - MARYLAND VISION INSTITUTE.xlsx",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Expected Manual Output/Estimate - MARYLAND VISION INSTITUTE.xlsx"
+    },
+    {
+      "name": "Markups - MARYLAND VISION INSTITUTE.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-28 - Maryland Vision Institute/Expected Manual Output/Markups - MARYLAND VISION INSTITUTE.pdf"
+    }
+  ],
+  "expected_output_visible": true,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.063Z"
+}

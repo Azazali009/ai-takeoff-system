@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-37 - TAKE 5 OIL CHANGE, SHEFFIELD OH",
+  "project_name": "TAKEOFF-37 - TAKE 5 OIL CHANGE, SHEFFIELD OH",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:47:34.417Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "Landscvape Sheet L-1.pdf",
+    "Take 5 OC Sheffield OH Rev. E 05.30.2025.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95483, Requested 5369. Please try again in 12m16.127999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95483, Requested 5369. Please try again in 12m16.127999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

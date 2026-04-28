@@ -1,0 +1,22 @@
+{
+  "takeoff_id": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "project_name": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "evaluated_at": "2026-04-28T07:02:37.113Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "summary": {
+    "ai_item_count": 0,
+    "gold_files_available": [
+      "Estimate - JACK & JONES STATEN ISLAND, NY.xlsx",
+      "Markups - JACK & JONES STATEN ISLAND, NY.pdf"
+    ],
+    "trade_detected": "Unknown",
+    "processing_notes": "Failed to process"
+  },
+  "ai_line_items": [],
+  "ai_assumptions": [],
+  "ai_warnings": [
+    "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98617, Requested 9804. Please try again in 2h1m15.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+  ],
+  "evaluation_notes": "Evaluated 0 AI-generated line items against gold files: Estimate - JACK & JONES STATEN ISLAND, NY.xlsx, Markups - JACK & JONES STATEN ISLAND, NY.pdf",
+  "overall_grade": "Insufficient"
+}

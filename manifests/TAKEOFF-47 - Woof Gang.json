@@ -1,0 +1,159 @@
+{
+  "takeoff_id": "TAKEOFF-47 - Woof Gang",
+  "project_name": "TAKEOFF-47 - Woof Gang",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "00 A0.00.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.00.pdf"
+    },
+    {
+      "name": "00 A0.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.01.pdf"
+    },
+    {
+      "name": "00 A0.03.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.03.pdf"
+    },
+    {
+      "name": "00 A0.05.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.05.pdf"
+    },
+    {
+      "name": "00 A0.10.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.10.pdf"
+    },
+    {
+      "name": "00 A0.11.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.11.pdf"
+    },
+    {
+      "name": "00 A0.12.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/00 A0.12.pdf"
+    },
+    {
+      "name": "01 A1.00.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A1.00.pdf"
+    },
+    {
+      "name": "01 A1.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A1.01.pdf"
+    },
+    {
+      "name": "01 A2.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A2.01.pdf"
+    },
+    {
+      "name": "01 A3.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A3.01.pdf"
+    },
+    {
+      "name": "01 A4.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A4.01.pdf"
+    },
+    {
+      "name": "01 A4.03.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A4.03.pdf"
+    },
+    {
+      "name": "01 A5.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A5.01.pdf"
+    },
+    {
+      "name": "01 A6.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A6.01.pdf"
+    },
+    {
+      "name": "01 A7.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/01 A7.01.pdf"
+    },
+    {
+      "name": "02 E0.00.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E0.00.pdf"
+    },
+    {
+      "name": "02 E0.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E0.01.pdf"
+    },
+    {
+      "name": "02 E0.02.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E0.02.pdf"
+    },
+    {
+      "name": "02 E2.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E2.01.pdf"
+    },
+    {
+      "name": "02 E2.02.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E2.02.pdf"
+    },
+    {
+      "name": "02 E3.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/02 E3.01.pdf"
+    },
+    {
+      "name": "03 M0.00.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/03 M0.00.pdf"
+    },
+    {
+      "name": "03 M0.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/03 M0.01.pdf"
+    },
+    {
+      "name": "03 M2.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/03 M2.01.pdf"
+    },
+    {
+      "name": "03 M3.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/03 M3.01.pdf"
+    },
+    {
+      "name": "03 M4.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/03 M4.01.pdf"
+    },
+    {
+      "name": "04 P0.00.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/04 P0.00.pdf"
+    },
+    {
+      "name": "04 P0.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/04 P0.01.pdf"
+    },
+    {
+      "name": "04 P2.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/04 P2.01.pdf"
+    },
+    {
+      "name": "04 P3.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/04 P3.01.pdf"
+    },
+    {
+      "name": "04 P4.01.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/04 P4.01.pdf"
+    },
+    {
+      "name": "Design Guide 2024.08.29.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/Design Guide 2024.08.29.pdf"
+    },
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/Project Description.txt"
+    },
+    {
+      "name": "St. Pete condition of premises.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/St. Pete condition of premises.pdf"
+    },
+    {
+      "name": "Wolf Gang GC Bid Sheet.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/Wolf Gang GC Bid Sheet.pdf"
+    },
+    {
+      "name": "Woof Gang Bakery - St Petersburg FL.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-47 - Woof Gang/Project Files/Woof Gang Bakery - St Petersburg FL.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.078Z"
+}

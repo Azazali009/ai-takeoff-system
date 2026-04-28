@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-35 - RACETRAC Palm Coast",
+  "project_name": "TAKEOFF-35 - RACETRAC Palm Coast",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-35 - RACETRAC Palm Coast/Project Files/Project Description.txt"
+    },
+    {
+      "name": "RT2419 Seminole Woods  PreBid Notes.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-35 - RACETRAC Palm Coast/Project Files/RT2419 Seminole Woods  PreBid Notes.pdf"
+    },
+    {
+      "name": "_2419 SEMINOLE 6KR 2.0 Field Use Set _3.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-35 - RACETRAC Palm Coast/Project Files/_2419 SEMINOLE 6KR 2.0 Field Use Set _3.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.071Z"
+}

@@ -1,0 +1,19 @@
+# Environment variables - never commit API keys
+.env
+
+# Node modules
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Dataset - too large for GitHub
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor folders
+.vscode/
+.idea/

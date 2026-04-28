@@ -1,0 +1,43 @@
+{
+  "takeoff_id": "TAKEOFF-60 - NW WTP OPERATORS BUILDING",
+  "project_name": "TAKEOFF-60 - NW WTP OPERATORS BUILDING",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "2449 Exhibit A - Construction Plans (06.27.2025).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 Exhibit A - Construction Plans (06.27.2025).PDF"
+    },
+    {
+      "name": "2449 Exhibit B - Technical Specifications (05.15.2025).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 Exhibit B - Technical Specifications (05.15.2025).PDF"
+    },
+    {
+      "name": "2449 Exhibit C - SJC DR Commercial Clearance Sheet C2024-007402 (01.03.2025).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 Exhibit C - SJC DR Commercial Clearance Sheet C2024-007402 (01.03.2025).PDF"
+    },
+    {
+      "name": "2449 Exhibit D - SJC OD Paving _ Drainage Construction Permit COMM 24-92 (12.31.2024).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 Exhibit D - SJC OD Paving _ Drainage Construction Permit COMM 24-92 (12.31.2024).PDF"
+    },
+    {
+      "name": "2449 Exhibit E - SJRWMD Permit 21489-83 (03.25.2025).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 Exhibit E - SJRWMD Permit 21489-83 (03.25.2025).PDF"
+    },
+    {
+      "name": "2449 IFB Document (FINAL_07112025).PDF",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/2449 IFB Document (FINAL_07112025).PDF"
+    },
+    {
+      "name": "Bid Narrative.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/Bid Narrative.pdf"
+    },
+    {
+      "name": "Project Description.txt",
+      "path": "data/02_challenge_projects/TAKEOFF-60 - NW WTP OPERATORS BUILDING/Project Files/Project Description.txt"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.081Z"
+}

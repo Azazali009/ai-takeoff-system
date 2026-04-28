@@ -1,0 +1,22 @@
+{
+  "takeoff_id": "TAKEOFF-50 - Portland VA Surgical Center Rehabilitation",
+  "project_name": "TAKEOFF-50 - Portland VA Surgical Center Rehabilitation",
+  "evaluated_at": "2026-04-28T07:02:37.112Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "summary": {
+    "ai_item_count": 0,
+    "gold_files_available": [
+      "Estimate - PORTLAND VAPHCS.xlsx",
+      "Markups - PORTLAND VAPHCS.pdf"
+    ],
+    "trade_detected": "Unknown",
+    "processing_notes": "Failed to process"
+  },
+  "ai_line_items": [],
+  "ai_assumptions": [],
+  "ai_warnings": [
+    "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95365, Requested 7127. Please try again in 35m53.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+  ],
+  "evaluation_notes": "Evaluated 0 AI-generated line items against gold files: Estimate - PORTLAND VAPHCS.xlsx, Markups - PORTLAND VAPHCS.pdf",
+  "overall_grade": "Insufficient"
+}

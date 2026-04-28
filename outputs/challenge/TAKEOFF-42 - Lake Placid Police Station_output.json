@@ -1,0 +1,24 @@
+{
+  "takeoff_id": "TAKEOFF-42 - Lake Placid Police Station",
+  "project_name": "TAKEOFF-42 - Lake Placid Police Station",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:47:43.054Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "00 PROJECT SPECIFICATIONS MANUAL Lake Placid Police Station 07-15-2025.pdf",
+    "PC-975 LAKE PLACID POLICE STATION DRAWINGS.pdf",
+    "_Geotech Report.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95473, Requested 8640. Please try again in 59m13.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95473, Requested 8640. Please try again in 59m13.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

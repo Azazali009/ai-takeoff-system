@@ -1,0 +1,19 @@
+{
+  "takeoff_id": "TAKEOFF-49 - Maintenance Building, Gator Blvd & Main Street",
+  "project_name": "TAKEOFF-49 - Maintenance Building, Gator Blvd & Main Street",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "07-2025_exhibit_a_civil_specifications.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-49 - Maintenance Building, Gator Blvd & Main Street/Project Files/07-2025_exhibit_a_civil_specifications.pdf"
+    },
+    {
+      "name": "07-2025_exhibit_b_civil-landscape_planset.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-49 - Maintenance Building, Gator Blvd & Main Street/Project Files/07-2025_exhibit_b_civil-landscape_planset.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.079Z"
+}

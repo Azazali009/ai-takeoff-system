@@ -1,0 +1,27 @@
+{
+  "takeoff_id": "TAKEOFF-58 - HMSL Employee Fitness",
+  "project_name": "TAKEOFF-58 - HMSL Employee Fitness",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "Drawings_FULL.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-58 - HMSL Employee Fitness/Project Files/Drawings_FULL.pdf"
+    },
+    {
+      "name": "M001 - Mechanical Schedules.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-58 - HMSL Employee Fitness/Project Files/M001 - Mechanical Schedules.pdf"
+    },
+    {
+      "name": "M002 - Mechanical Schedules.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-58 - HMSL Employee Fitness/Project Files/M002 - Mechanical Schedules.pdf"
+    },
+    {
+      "name": "Specs_FULL.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-58 - HMSL Employee Fitness/Project Files/Specs_FULL.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.080Z"
+}

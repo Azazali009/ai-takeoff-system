@@ -1,0 +1,47 @@
+{
+  "takeoff_id": "TAKEOFF-55 - Coach House Renovation",
+  "project_name": "TAKEOFF-55 - Coach House Renovation",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:23.661Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "2144 N. Bell Coachhouse Set 8.12.25.pdf",
+    "Project Description.txt"
+  ],
+  "takeoff": {
+    "project_summary": "Renovation of a coach house with a footprint area of 620 SF, including roofing work with an area of 829 SF",
+    "trade": "Roofing",
+    "line_items": [
+      {
+        "id": "LI-001",
+        "description": "Roofing with GAF Timberline Shingles",
+        "quantity": 829,
+        "unit": "SF",
+        "source_reference": "Project Description.txt",
+        "assumption": "No assumptions made",
+        "warning": "No warnings",
+        "confidence": "high"
+      },
+      {
+        "id": "LI-002",
+        "description": "Tearing off the existing roof",
+        "quantity": 829,
+        "unit": "SF",
+        "source_reference": "Project Description.txt",
+        "assumption": "Assuming the existing roof area is the same as the new roof area",
+        "warning": "Quantity may vary depending on actual roof conditions",
+        "confidence": "medium"
+      }
+    ],
+    "assumptions": [
+      "Assuming the existing roof area is the same as the new roof area"
+    ],
+    "warnings": [
+      "Quantity may vary depending on actual roof conditions"
+    ],
+    "missing_information": [
+      "Detailed roof plans or specifications would improve accuracy"
+    ],
+    "processing_notes": "Project Description.txt had useful text, but other files were mostly image-based and lacked extractable text"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "takeoff_id": "TAKEOFF-22 - AUTOZONE #10016",
+  "project_name": "TAKEOFF-22 - AUTOZONE #10016",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:44:49.113Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "A0.pdf",
+    "A1.1.pdf",
+    "A1.pdf",
+    "A2.pdf",
+    "A3.1.pdf",
+    "A3.2.pdf",
+    "A3.pdf",
+    "A4.pdf",
+    "A5.pdf",
+    "A6.pdf"
+  ],
+  "takeoff": {
+    "project_summary": "Construction of AutoZone Store No. 10016",
+    "trade": "General Construction",
+    "line_items": [
+      {
+        "id": "LI-001",
+        "description": "Drinking fountains",
+        "quantity": 2,
+        "unit": "EA",
+        "source_reference": "A-5.pdf",
+        "assumption": "Assuming two drinking fountains are required",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-002",
+        "description": "Grab bars for drinking fountains",
+        "quantity": 2,
+        "unit": "EA",
+        "source_reference": "A-5.pdf",
+        "assumption": "Assuming two grab bars are required, one for each drinking fountain",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-003",
+        "description": "Roof hatches",
+        "quantity": 1,
+        "unit": "EA",
+        "source_reference": "A-6.pdf",
+        "assumption": "Assuming one roof hatch is required",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-004",
+        "description": "Ladders",
+        "quantity": 1,
+        "unit": "EA",
+        "source_reference": "A-6.pdf",
+        "assumption": "Assuming one ladder is required",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-005",
+        "description": "Door frames",
+        "quantity": 5,
+        "unit": "EA",
+        "source_reference": "A-1.1.pdf",
+        "assumption": "Assuming five door frames are required based on the door schedule",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-006",
+        "description": "Doors",
+        "quantity": 5,
+        "unit": "EA",
+        "source_reference": "A-1.1.pdf",
+        "assumption": "Assuming five doors are required based on the door schedule",
+        "warning": "No clear quantity specified in the document",
+        "confidence": "medium"
+      }
+    ],
+    "assumptions": [
+      "Assuming standard construction practices and materials"
+    ],
+    "warnings": [
+      "Quantities are not clearly specified in the document, estimates have been made based on the information provided"
+    ],
+    "missing_information": [
+      "Clear quantities for each line item",
+      "Detailed specifications for materials and construction methods"
+    ],
+    "processing_notes": "The documents provided are mostly image-based PDFs, which made it difficult to extract quantities and information. The estimates provided are based on the limited text available in the documents."
+  }
+}

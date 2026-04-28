@@ -1,0 +1,23 @@
+{
+  "takeoff_id": "TAKEOFF-63 - LEHI HIPPO VET CLINIC",
+  "project_name": "TAKEOFF-63 - LEHI HIPPO VET CLINIC",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "LP-100-LANDSCAPE-OVERALL-PLAN-Rev.BID.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-63 - LEHI HIPPO VET CLINIC/Project Files/LP-100-LANDSCAPE-OVERALL-PLAN-Rev.BID.pdf"
+    },
+    {
+      "name": "LP-101-LANDSCAPE-COVER-Rev.BID.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-63 - LEHI HIPPO VET CLINIC/Project Files/LP-101-LANDSCAPE-COVER-Rev.BID.pdf"
+    },
+    {
+      "name": "LP-501-LANDSCAPE-DETAILS-Rev.BID.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-63 - LEHI HIPPO VET CLINIC/Project Files/LP-501-LANDSCAPE-DETAILS-Rev.BID.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.082Z"
+}

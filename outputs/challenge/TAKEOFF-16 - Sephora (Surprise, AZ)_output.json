@@ -1,0 +1,100 @@
+{
+  "takeoff_id": "TAKEOFF-16 - Sephora (Surprise, AZ)",
+  "project_name": "TAKEOFF-16 - Sephora (Surprise, AZ)",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:44:14.577Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf"
+  ],
+  "takeoff": {
+    "project_summary": "Interior tenant fit-out for Sephora, approximately 5,013 SF",
+    "trade": "General Construction",
+    "line_items": [
+      {
+        "id": "LI-001",
+        "description": "Interior wall construction",
+        "quantity": 5000,
+        "unit": "SF",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming interior walls are approximately 50% of total area",
+        "warning": "No specific wall dimensions or quantities provided",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-002",
+        "description": "Flooring installation",
+        "quantity": 5013,
+        "unit": "SF",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming flooring is installed throughout entire area",
+        "warning": "No specific flooring type or quantity provided",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-003",
+        "description": "Ceiling installation",
+        "quantity": 5013,
+        "unit": "SF",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming ceiling is installed throughout entire area",
+        "warning": "No specific ceiling type or quantity provided",
+        "confidence": "medium"
+      },
+      {
+        "id": "LI-004",
+        "description": "Storefront construction",
+        "quantity": 1,
+        "unit": "EA",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming one storefront is included in the project",
+        "warning": "No specific storefront dimensions or details provided",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-005",
+        "description": "Plumbing fixtures installation",
+        "quantity": 2,
+        "unit": "EA",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming two water closets are included in the project",
+        "warning": "No specific plumbing fixture quantities or details provided",
+        "confidence": "low"
+      },
+      {
+        "id": "LI-006",
+        "description": "Lighting fixtures installation",
+        "quantity": 10,
+        "unit": "EA",
+        "source_reference": "PRASADA NORTH_2412_NEW_250624_PERMIT.pdf, page 1",
+        "assumption": "Assuming ten lighting fixtures are included in the project",
+        "warning": "No specific lighting fixture quantities or details provided",
+        "confidence": "low"
+      }
+    ],
+    "assumptions": [
+      "Assuming interior walls are approximately 50% of total area",
+      "Assuming flooring is installed throughout entire area",
+      "Assuming ceiling is installed throughout entire area",
+      "Assuming one storefront is included in the project",
+      "Assuming two water closets are included in the project",
+      "Assuming ten lighting fixtures are included in the project"
+    ],
+    "warnings": [
+      "No specific wall dimensions or quantities provided",
+      "No specific flooring type or quantity provided",
+      "No specific ceiling type or quantity provided",
+      "No specific storefront dimensions or details provided",
+      "No specific plumbing fixture quantities or details provided",
+      "No specific lighting fixture quantities or details provided"
+    ],
+    "missing_information": [
+      "Detailed drawings of interior walls and partitions",
+      "Flooring and ceiling specifications",
+      "Storefront details and dimensions",
+      "Plumbing fixture specifications and quantities",
+      "Lighting fixture specifications and quantities"
+    ],
+    "processing_notes": "The provided PDF file contains mostly text-based information, but some pages appear to be image-based with no extractable text. The file includes a cover sheet, index, and various notes, but lacks detailed drawings and specifications for the project."
+  }
+}

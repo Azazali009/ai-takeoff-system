@@ -1,0 +1,19 @@
+{
+  "takeoff_id": "TAKEOFF-52 - LOVESAC CORNER SHOPPES AT STADIUM",
+  "project_name": "TAKEOFF-52 - LOVESAC CORNER SHOPPES AT STADIUM",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "19509 Cover Letter.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-52 - LOVESAC CORNER SHOPPES AT STADIUM/Project Files/19509 Cover Letter.pdf"
+    },
+    {
+      "name": "25.0722_PRE-PERMIT APPROVAL_Corner Shoppes at Stadium_Kalamazoo,MI.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-52 - LOVESAC CORNER SHOPPES AT STADIUM/Project Files/25.0722_PRE-PERMIT APPROVAL_Corner Shoppes at Stadium_Kalamazoo,MI.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.079Z"
+}

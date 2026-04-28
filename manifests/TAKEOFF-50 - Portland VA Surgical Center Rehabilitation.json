@@ -1,0 +1,92 @@
+{
+  "takeoff_id": "TAKEOFF-50 - Portland VA Surgical Center Rehabilitation",
+  "project_name": "TAKEOFF-50 - Portland VA Surgical Center Rehabilitation",
+  "set": "sample",
+  "input_files": [
+    {
+      "name": "Amendment 1 - 36C77625B0017 0001 7-10-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 1 - 36C77625B0017 0001 7-10-25.pdf"
+    },
+    {
+      "name": "Amendment 2 - 36C77625B0017 0001 7-21-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 2 - 36C77625B0017 0001 7-21-25.pdf"
+    },
+    {
+      "name": "Amendment 3 - 36C77625B0017 0001 7-30-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 3 - 36C77625B0017 0001 7-30-25.pdf"
+    },
+    {
+      "name": "Amendment 4 - 36C77625B0017 0001 8-7-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 4 - 36C77625B0017 0001 8-7-25.pdf"
+    },
+    {
+      "name": "Amendment 5 - 36C77625B0017 0001 8-11-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 5 - 36C77625B0017 0001 8-11-25.pdf"
+    },
+    {
+      "name": "Amendment 6 - 36C77625B0017 0001 8-12-25.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Amendment 6 - 36C77625B0017 0001 8-12-25.pdf"
+    },
+    {
+      "name": "Attachment 11 - Brand Name Justification - Portland_Redacted.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Attachment 11 - Brand Name Justification - Portland_Redacted.pdf"
+    },
+    {
+      "name": "Attachment 13 - PreConstruction Risk Assessment - PCRA 648-349.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Attachment 13 - PreConstruction Risk Assessment - PCRA 648-349.pdf"
+    },
+    {
+      "name": "Attachment 14 - Infection Control Risk Assessement - ICRA 648-349.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Attachment 14 - Infection Control Risk Assessement - ICRA 648-349.pdf"
+    },
+    {
+      "name": "VAPHCS - Architectural Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Architectural Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - Electrical Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Electrical Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - Fire Alarm Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Fire Alarm Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - General Information Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - General Information Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - Mechanical Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Mechanical Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - Plumbing Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Plumbing Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS - Structural Drawings.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS - Structural Drawings.pdf"
+    },
+    {
+      "name": "VAPHCS Specs 100Pct BID Set REV 3.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/VAPHCS Specs 100Pct BID Set REV 3.pdf"
+    },
+    {
+      "name": "Wage rates Multnomah 7-4-2025.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Project Files/Wage rates Multnomah 7-4-2025.pdf"
+    }
+  ],
+  "gold_files": [
+    {
+      "name": "Estimate - PORTLAND VAPHCS.xlsx",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Expected Manual Output/Estimate - PORTLAND VAPHCS.xlsx"
+    },
+    {
+      "name": "Markups - PORTLAND VAPHCS.pdf",
+      "path": "data/01_sample_projects/TAKEOFF-50 - Portland VA Surgical Center Rehabilitation/Expected Manual Output/Markups - PORTLAND VAPHCS.pdf"
+    }
+  ],
+  "expected_output_visible": true,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.065Z"
+}

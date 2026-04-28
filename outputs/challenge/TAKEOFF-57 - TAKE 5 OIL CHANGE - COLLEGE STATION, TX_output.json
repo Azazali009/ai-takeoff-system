@@ -1,0 +1,28 @@
+{
+  "takeoff_id": "TAKEOFF-57 - TAKE 5 OIL CHANGE - COLLEGE STATION, TX",
+  "project_name": "TAKEOFF-57 - TAKE 5 OIL CHANGE - COLLEGE STATION, TX",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:30.289Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "25-0140_1644 GREENS PRAIRIE ROAD (ALTA)-Layout1.pdf",
+    "3. T5O COLLEGE STATION, TX SIR.pdf",
+    "3300rse ( Take 5 Oil Change - College Station) - Geo Report.pdf",
+    "51-4694 Proposed Take 5 College Station ESA.pdf",
+    "Low Voltage Bulletin - 11.21.23.pdf",
+    "Madewell RFP - Take 5 Oil Change - College Station, TX.pdf",
+    "T5OC - Standard 3-Bay Layout - 011224.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98614, Requested 5267. Please try again in 55m53.183999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98614, Requested 5267. Please try again in 55m53.183999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

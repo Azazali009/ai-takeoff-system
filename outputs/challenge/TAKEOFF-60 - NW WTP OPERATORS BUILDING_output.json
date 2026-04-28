@@ -1,0 +1,29 @@
+{
+  "takeoff_id": "TAKEOFF-60 - NW WTP OPERATORS BUILDING",
+  "project_name": "TAKEOFF-60 - NW WTP OPERATORS BUILDING",
+  "set": "challenge",
+  "processed_at": "2026-04-28T06:49:35.360Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "2449 Exhibit A - Construction Plans (06.27.2025).PDF",
+    "2449 Exhibit B - Technical Specifications (05.15.2025).PDF",
+    "2449 Exhibit C - SJC DR Commercial Clearance Sheet C2024-007402 (01.03.2025).PDF",
+    "2449 Exhibit D - SJC OD Paving _ Drainage Construction Permit COMM 24-92 (12.31.2024).PDF",
+    "2449 Exhibit E - SJRWMD Permit 21489-83 (03.25.2025).PDF",
+    "2449 IFB Document (FINAL_07112025).PDF",
+    "Bid Narrative.pdf",
+    "Project Description.txt"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98608, Requested 8130. Please try again in 1h37m1.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98608, Requested 8130. Please try again in 1h37m1.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}

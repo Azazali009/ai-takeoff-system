@@ -1,0 +1,331 @@
+{
+  "takeoff_id": "TAKEOFF-31 - WALMART 1783",
+  "project_name": "TAKEOFF-31 - WALMART 1783",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "09900-FS-01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/09900-FS-01783(Version_1).pdf"
+    },
+    {
+      "name": "22009 - CACS-COVER SHEET- 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/22009 - CACS-COVER SHEET- 01783(Version_1).pdf"
+    },
+    {
+      "name": "22009 - CAS1-INSTALL SHEET-CAS1 - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/22009 - CAS1-INSTALL SHEET-CAS1 - 01783(Version_1).pdf"
+    },
+    {
+      "name": "22009 - CAS2-ELEVATION VIEW-CAS2 - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/22009 - CAS2-ELEVATION VIEW-CAS2 - 01783(Version_1).pdf"
+    },
+    {
+      "name": "22009 - CAS4-LIGHT LAYOUT- 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/22009 - CAS4-LIGHT LAYOUT- 01783(Version_1).pdf"
+    },
+    {
+      "name": "6010 - TITLE - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6010 - TITLE - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6020 - ALTA SURVEY - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6020 - ALTA SURVEY - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6030 - OVERALL SITE PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6030 - OVERALL SITE PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6040 - SWPPP INDEX - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6040 - SWPPP INDEX - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6050 - EROSION AND SEDIMENTATION NOTES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6050 - EROSION AND SEDIMENTATION NOTES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6060 - EROSION AND SEDIMENTATION SEQUENCING - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6060 - EROSION AND SEDIMENTATION SEQUENCING - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6070 - PHASE I EROSION AND SEDIMENTATION CONTROL PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6070 - PHASE I EROSION AND SEDIMENTATION CONTROL PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6080 - PHASE II EROSION AND SEDIMENTATION CONTROL PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6080 - PHASE II EROSION AND SEDIMENTATION CONTROL PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6090 - EROSION CONTROL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6090 - EROSION CONTROL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6100 - EROSION CONTROL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6100 - EROSION CONTROL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6110 - EROSION CONTROL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6110 - EROSION CONTROL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6120 - EROSION CONTROL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6120 - EROSION CONTROL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6130 - EROSION CONTROL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6130 - EROSION CONTROL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6140 - DEMOLITION PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6140 - DEMOLITION PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6150 - FUEL STATION SITE PLAN -01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6150 - FUEL STATION SITE PLAN -01783(Version_1).pdf"
+    },
+    {
+      "name": "6160 - GRADING PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6160 - GRADING PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6170 -  DETAILED GRADING PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6170 -  DETAILED GRADING PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6180 - OVERALL UTILITY PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6180 - OVERALL UTILITY PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6190 - UTILITY PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6190 - UTILITY PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6200 - PLANTING PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6200 - PLANTING PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6210 - PLANTING DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6210 - PLANTING DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6220 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6220 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6230 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6230 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6240 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6240 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6250 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6250 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6260 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6260 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6270 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6270 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6280 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6280 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6290 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6290 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "6300 - DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/6300 - DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8000 - FSCS COVER SHEET - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8000 - FSCS COVER SHEET - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8010 - FSA1 CANOPY PLANS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8010 - FSA1 CANOPY PLANS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8011 - FSA1.1 CANOPY ELEVATIONS AND SITE DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8011 - FSA1.1 CANOPY ELEVATIONS AND SITE DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8012 - FSA1.2 SIGNAGE - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8012 - FSA1.2 SIGNAGE - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8013 - FSA1.3 SITE SIGNAGE AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8013 - FSA1.3 SITE SIGNAGE AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8014 - FSA1.4 SITE DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8014 - FSA1.4 SITE DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8020 - FSA2 SERVICE BUILDING - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8020 - FSA2 SERVICE BUILDING - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8023 - FSA2.3 TRASH ENCLOSURE PLANS AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8023 - FSA2.3 TRASH ENCLOSURE PLANS AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8030 - FSA3 WALL SECTIONS AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8030 - FSA3 WALL SECTIONS AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8040 - FSA4 ROOF PLAN RCP AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8040 - FSA4 ROOF PLAN RCP AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8050 - FSA5 FIXTURE PLAN ELEVATIONS AND SCHEDULES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8050 - FSA5 FIXTURE PLAN ELEVATIONS AND SCHEDULES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8051 - FSA5.1 INTERIOR ELEVATIONS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8051 - FSA5.1 INTERIOR ELEVATIONS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8060 - FSA6 PARTITION TYPES AND MISC DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8060 - FSA6 PARTITION TYPES AND MISC DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8061 - FSA6.1 RESPONSIBILITY MATRIX - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8061 - FSA6.1 RESPONSIBILITY MATRIX - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8100 - FSS0 GENERAL STRUCTURAL INFORMATION - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8100 - FSS0 GENERAL STRUCTURAL INFORMATION - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8110 - FSS1 FOUNDATION PLANS AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8110 - FSS1 FOUNDATION PLANS AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8120 - FSS2 SERVICE BUILDING FOUNDATION PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8120 - FSS2 SERVICE BUILDING FOUNDATION PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8130 - FSS3 SERVICE BUILDING FRAMING PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8130 - FSS3 SERVICE BUILDING FRAMING PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8140 - FSS4 GENERAL SCHEDULES AND DIAGRAMS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8140 - FSS4 GENERAL SCHEDULES AND DIAGRAMS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8210 - FST1 PIPING PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8210 - FST1 PIPING PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8220 - FST2 TANK DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8220 - FST2 TANK DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8230 - FST3 TANK SUMP DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8230 - FST3 TANK SUMP DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8240 - FST4 DISPENSER AND SUMP DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8240 - FST4 DISPENSER AND SUMP DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8250 - FST5 TANK AND VENT PIPING DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8250 - FST5 TANK AND VENT PIPING DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8260 - FST6 EQUIPMENT SCHEDULES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8260 - FST6 EQUIPMENT SCHEDULES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8310 - FSM1 SERVICE BUILDING MECHANICAL PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8310 - FSM1 SERVICE BUILDING MECHANICAL PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8410 - FSP1 SERVICE BUILDING PLUMBING PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8410 - FSP1 SERVICE BUILDING PLUMBING PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8420 - FSP2 CANOPY DRAINAGE PLAN AND DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8420 - FSP2 CANOPY DRAINAGE PLAN AND DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8430 - FSR1 SERVICE BUILDING REFRIG PLAN AND SCHEDULES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8430 - FSR1 SERVICE BUILDING REFRIG PLAN AND SCHEDULES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8440 - FSR2 SERVICE BUILDING REFRIG DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8440 - FSR2 SERVICE BUILDING REFRIG DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8450 - FSR3 SERVICE BUILDING REFRIG SUBMITTALS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8450 - FSR3 SERVICE BUILDING REFRIG SUBMITTALS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8510 - FSE1 SITE ELECTRICAL PLANS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8510 - FSE1 SITE ELECTRICAL PLANS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8520 - FSE2 TANK ELECTRICAL PLANS AND ELECTRICAL DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8520 - FSE2 TANK ELECTRICAL PLANS AND ELECTRICAL DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8530 - FSE3 SERVICE BUILDING ELECTRICAL PLANS ONE LINE DETAILS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8530 - FSE3 SERVICE BUILDING ELECTRICAL PLANS ONE LINE DETAILS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8531 - FSE3.1 ELECTRICAL SCHEDULES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8531 - FSE3.1 ELECTRICAL SCHEDULES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8540 - FSE4 SITE CONDUIT DIAGRAMS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8540 - FSE4 SITE CONDUIT DIAGRAMS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8550 - FSE5 SITE MONITORING WIRING DIAGRAM - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8550 - FSE5 SITE MONITORING WIRING DIAGRAM - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8560 - FSE6 DISPENSER AND SITE ETHERNET WIRING DIAGRAM - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8560 - FSE6 DISPENSER AND SITE ETHERNET WIRING DIAGRAM - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8701 - FCE.S - ELEVATION WORKSHEET - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8701 - FCE.S - ELEVATION WORKSHEET - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8711 - FCS1.1 - FRAMING PLAN - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8711 - FCS1.1 - FRAMING PLAN - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8712 - FCS1.2 - CANOPY ELEVATIONS - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8712 - FCS1.2 - CANOPY ELEVATIONS - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8713 - FCS1.3 - TYPICAL CONSTRUCTION DETAILS AND NOTES - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8713 - FCS1.3 - TYPICAL CONSTRUCTION DETAILS AND NOTES - 01783(Version_1).pdf"
+    },
+    {
+      "name": "8714 - FCS1.4 - LIGHT LAYOUT FOR CUSTOMER APPROVAL - 01783(Version_1).pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/8714 - FCS1.4 - LIGHT LAYOUT FOR CUSTOMER APPROVAL - 01783(Version_1).pdf"
+    },
+    {
+      "name": "Painter_s Trade General Scope Expectations- PDF Format.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/Painter_s Trade General Scope Expectations- PDF Format.pdf"
+    },
+    {
+      "name": "Project Description - WALMART 1783-1005 PRINCETON, IN.docx",
+      "path": "data/02_challenge_projects/TAKEOFF-31 - WALMART 1783/Project Files/Project Description - WALMART 1783-1005 PRINCETON, IN.docx"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.070Z"
+}

@@ -1,0 +1,19 @@
+{
+  "takeoff_id": "TAKEOFF-64 - Paradies- Beltline Market _ Village Retail- ATL Airport",
+  "project_name": "TAKEOFF-64 - Paradies- Beltline Market _ Village Retail- ATL Airport",
+  "set": "challenge",
+  "input_files": [
+    {
+      "name": "ATL BeltlineFinalSub 8.7.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-64 - Paradies- Beltline Market _ Village Retail- ATL Airport/Project Files/ATL BeltlineFinalSub 8.7.25.pdf"
+    },
+    {
+      "name": "ATL TheVillage Final 8.6.25.pdf",
+      "path": "data/02_challenge_projects/TAKEOFF-64 - Paradies- Beltline Market _ Village Retail- ATL Airport/Project Files/ATL TheVillage Final 8.6.25.pdf"
+    }
+  ],
+  "gold_files": [],
+  "expected_output_visible": false,
+  "status": "pending",
+  "created_at": "2026-04-28T06:43:01.082Z"
+}

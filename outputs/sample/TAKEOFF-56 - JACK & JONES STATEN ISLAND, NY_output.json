@@ -1,0 +1,35 @@
+{
+  "takeoff_id": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "project_name": "TAKEOFF-56 - JACK & JONES STATEN ISLAND, NY",
+  "set": "sample",
+  "processed_at": "2026-04-28T06:49:27.971Z",
+  "model_used": "groq/llama-3.3-70b-versatile",
+  "input_files_processed": [
+    "10110807_10110807_T_DETAIL_PDF_VRS01.pdf",
+    "10110807_10110807_T_MAIN_PROJECT_PDF_VRS01.pdf",
+    "10110807_D_GR_JJ_NY_Staten_Island_PDF_VRS07.pdf",
+    "1465 Gap Kids (2007).pdf",
+    "2025-0673 S-1.10.pdf",
+    "2025-0673 S-2.10.pdf",
+    "C25490_E-1.pdf",
+    "C25490_E-2.pdf",
+    "C25490_E-3.pdf",
+    "C25490_E-4.pdf",
+    "C25490_M-1.pdf",
+    "C25490_M-2.pdf",
+    "C25490_M-3.pdf",
+    "JJ2505-JackJones Staten Island - Arch IFP - 073125-flat.pdf"
+  ],
+  "takeoff": {
+    "error": "429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98617, Requested 9804. Please try again in 2h1m15.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}",
+    "project_summary": "Processing failed",
+    "trade": "Unknown",
+    "line_items": [],
+    "assumptions": [],
+    "warnings": [
+      "Processing error: 429 {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kfjx2n2nevrsfgjhbswsdtgc` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98617, Requested 9804. Please try again in 2h1m15.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\",\"type\":\"tokens\",\"code\":\"rate_limit_exceeded\"}}"
+    ],
+    "missing_information": [],
+    "processing_notes": "Failed to process"
+  }
+}
